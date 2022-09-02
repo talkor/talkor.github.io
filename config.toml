@@ -1,0 +1,12 @@
+baseURL = 'http://talkor.io/'
+languageCode = 'en-us'
+title = 'Tal Koren'
+theme = "paper"
+
+[params]
+  twitter = 'talkor_'
+  github = 'talkor'
+  rss = true
+  name = 'Tal Koren'
+  # bio = 'YOUR_BIO'
+  monoDarkIcon = true
