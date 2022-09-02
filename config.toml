@@ -1,4 +1,4 @@
-baseURL = 'http://talkor.io/'
+baseURL = 'https://talkor.github.io'
 languageCode = 'en-us'
 title = 'Tal Koren'
 theme = "paper"
