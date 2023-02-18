@@ -1,6 +1,6 @@
 baseURL = 'https://talkor.github.io'
 languageCode = 'en-us'
-title = 'Tal Koren'
+title = 'Talko'
 theme = "paper"
 googleAnalytics = 'G-9086DRHG4Q'
 
@@ -8,6 +8,6 @@ googleAnalytics = 'G-9086DRHG4Q'
   twitter = 'talkor_'
   github = 'talkor'
   rss = true
-  name = 'Tal Koren'
+  name = 'Talko'
   # bio = 'YOUR_BIO'
   monoDarkIcon = true
