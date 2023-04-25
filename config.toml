@@ -5,8 +5,9 @@ theme = "paper"
 googleAnalytics = 'G-9086DRHG4Q'
 
 [params]
-  twitter = 'talkor_'
+  twitter = 'talko_pro'
   github = 'talkor'
+  instagram = 'talko.pro'
   rss = true
   name = 'Talko'
   # bio = 'YOUR_BIO'
