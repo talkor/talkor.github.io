@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Talko</title><link>https://talkor.github.io/</link><description>Recent content on Talko</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://talkor.github.io/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Talko</title>
+    <link>https://talkor.github.io/</link>
+    <description>Recent content on Talko</description>
+    <image>
+      <title>Talko</title>
+      <url>https://talkor.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://talkor.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://talkor.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://talkor.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://talkor.github.io/about/</guid>
+      <description>Hi there! I&amp;rsquo;m Talko, a passionate Software Developer with a flair for creating sleek and user-friendly interfaces. I&amp;rsquo;ve spent a significant part of my career energizing digital platforms and tools, using my go-to tech superheroes - JavaScript, Vue.js, React and Node.js.
+Away from the screen, I can be found playing melodious tunes on my guitar and MIDI keyboard, freezing moments with my camera, geeking out over space launches, or diving headfirst into a fascinating new language.</description>
+    </item>
+    
+  </channel>
+</rss>
