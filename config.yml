@@ -26,7 +26,7 @@ params:
   disableThemeToggle: false
   ShowReadingTime: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: false
   ShowWordCount: false
   ShowRssButtonInSectionTermList: true
