@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Talko</title>
-    <link>https://talkor.github.io/</link>
+    <link>https://talko.pro/</link>
     <description>Recent content on Talko</description>
     <image>
       <title>Talko</title>
-      <url>https://talkor.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://talkor.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://talko.pro/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://talko.pro/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://talkor.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://talko.pro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OP-1 Field</title>
-      <link>https://talkor.github.io/op1-field/</link>
+      <link>https://talko.pro/op1-field/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://talkor.github.io/op1-field/</guid>
+      <guid>https://talko.pro/op1-field/</guid>
       <description>A replica of Teenage Engineering&amp;rsquo;s OP-1 Field, crafted in Figma. The OP-1 has become a source of inspiration for designers and musicians alike, due to its aesthetic appeal, innovative design and remarkable functionality.
 The replication involved the creation of modular components to construct the various keys and the icons displayed on each key.
 See the full specs here.</description>
@@ -25,10 +25,10 @@ See the full specs here.</description>
     
     <item>
       <title>Hey there!</title>
-      <link>https://talkor.github.io/about/</link>
+      <link>https://talko.pro/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://talkor.github.io/about/</guid>
+      <guid>https://talko.pro/about/</guid>
       <description>I&amp;rsquo;m Talko, a passionate Software Developer with a flair for designing and creating sleek and user-friendly interfaces. I&amp;rsquo;ve spent a significant part of my career energizing digital platforms and tools, using my go-to tech superheroes - JavaScript, Vue.js, React and Node.js.
 Away from the screen, I can be found playing melodious tunes on my guitar and MIDI keyboard, freezing moments with my camera, geeking out over space launches, or diving headfirst into a fascinating new language.</description>
     </item>
