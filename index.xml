@@ -23,15 +23,5 @@ The replication involved the creation of modular components to construct the var
 See the full specs here.</description>
     </item>
     
-    <item>
-      <title>About</title>
-      <link>https://talko.pro/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://talko.pro/about/</guid>
-      <description>I&amp;rsquo;m Talko, a Software Developer deeply engaged in crafting user-friendly interfaces that enhance user experience. My professional journey has been centered around augmenting digital platforms and tools, leveraging innovative technologies to achieve improved functionality and design.
-Beyond my technical pursuits, my interests extend to exploring the realms of music, where I play various instruments, engaging in photography to capture the essence of moments, following the advancements in space exploration with enthusiasm, and dedicating time to expand my knowledge through learning.</description>
-    </item>
-    
   </channel>
 </rss>
