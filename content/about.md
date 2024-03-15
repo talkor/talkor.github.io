@@ -5,6 +5,7 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: false
 hiddenInHomeList: true
 social: true
+ExcludeFromRss: true
 ---
 
 I'm Talko, a Software Developer deeply engaged in crafting user-friendly interfaces that enhance user experience. My professional journey has been centered around augmenting digital platforms and tools, leveraging innovative technologies to achieve improved functionality and design.
