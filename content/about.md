@@ -1,5 +1,5 @@
 ---
-title: Hey there!
+title: About
 hidemeta: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: false
@@ -7,6 +7,6 @@ hiddenInHomeList: true
 social: true
 ---
 
-I'm Talko, a passionate Software Developer with a flair for designing and creating sleek and user-friendly interfaces. I've spent a significant part of my career energizing digital platforms and tools, using my go-to tech superheroes - JavaScript, Vue.js, React and Node.js.
+I'm Talko, a Software Developer deeply engaged in crafting user-friendly interfaces that enhance user experience. My professional journey has been centered around augmenting digital platforms and tools, leveraging innovative technologies to achieve improved functionality and design.
 
-Away from the screen, I can be found playing melodious tunes on my guitar and MIDI keyboard, freezing moments with my camera, geeking out over space launches, or diving headfirst into a fascinating new language.
+Beyond my technical pursuits, my interests extend to exploring the realms of music, where I play various instruments, engaging in photography to capture the essence of moments, following the advancements in space exploration with enthusiasm, and dedicating time to expand my knowledge through learning.
